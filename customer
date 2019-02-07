@@ -1,0 +1,4 @@
+public class customer 
+{
+    public string name {get; set;}
+}
